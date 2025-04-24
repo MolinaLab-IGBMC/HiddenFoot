@@ -131,7 +131,7 @@ You can configure various model and optimization parameters via command-line:
 
 ## 📖 Citation
 
-> Molina N. et al. *HiddenFoot: a biophysical model to uncover transcription factor and nucleosome binding on single DNA molecules* (in preparation)
+> Molina N. et al. *HiddenFoot: Efficient thermodynamic model to reveal transcription factor and nucleosome binding patterns on single DNA molecules* (in preparation)
 
 ---
 
