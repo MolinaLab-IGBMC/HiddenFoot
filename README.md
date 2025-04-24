@@ -1,12 +1,9 @@
  # HiddenFoot: Efficient thermodynamic model to reveal transcription factor and nucleosome binding patterns on single DNA molecules
  <div align="center">
-  
- **HiddenFoot** is a high-performance C++ toolkit for inferring transcription factor (TF) and nucleosome binding from single-molecule methylation data. It implements a probabilistic thermodynamic model that integrates DNA binding motifs (PWMs), methylation state, and binding logic using efficient forward-backward algorithms, SGD, and MCMC.
-
   <img src="https://github.com/MolinaLab-IGBMC/HiddenFoot/assets/34145153/d49969d7-ed83-4ad4-aa21-97eabc37ea2d" width="300" height="300">
 </div>
 
-
+ **HiddenFoot** is a high-performance C++ toolkit for inferring transcription factor (TF) and nucleosome binding from single-molecule methylation data. It implements a probabilistic thermodynamic model that integrates DNA binding motifs (PWMs), methylation state, and binding logic using efficient forward-backward algorithms, SGD, and MCMC.
 ---
 
 ## 🚀 Features
