@@ -4,18 +4,6 @@
   <img src="https://github.com/MolinaLab-IGBMC/HiddenFoot/assets/34145153/d49969d7-ed83-4ad4-aa21-97eabc37ea2d" width="300" height="300">
 </div>
 
-
-Here’s the updated `README.md` content based on the contents of your `makefile` and the previously parsed code. This version includes detailed build instructions from the `makefile` using `g++-mp-12` or `clang++`, and matches typical GitHub Markdown style.
-
----
-
-```markdown
-# HiddenFoot: Efficient Thermodynamic Model to Reveal Transcription Factor and Nucleosome Binding Patterns on Single DNA Molecules
-
-<div align="center">
-  <img src="https://github.com/MolinaLab-IGBMC/HiddenFoot/assets/34145153/d49969d7-ed83-4ad4-aa21-97eabc37ea2d" width="300" height="300">
-</div>
-
 **HiddenFoot** is a high-performance C++ toolkit for inferring transcription factor (TF) and nucleosome binding from single-molecule methylation data. It implements a probabilistic thermodynamic model that integrates DNA binding motifs (PWMs), methylation state, and binding logic using efficient forward-backward algorithms, SGD, and MCMC.
 
 ---
@@ -160,15 +148,3 @@ MolinaLab @ IGBMC
 This project is licensed under the **MIT License**.
 
 ---
-
-## 🧩 Contributions and Feedback
-
-Feel free to:
-- Open issues for bugs and suggestions
-- Submit pull requests for improvements
-- Reach out for collaborations!
-
----
-```
-
-Let me know if you'd like this as a downloadable `.md` file or with additional sections (e.g., benchmark results, tutorial links, logo credits, etc.).
