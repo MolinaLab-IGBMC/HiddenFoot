@@ -131,14 +131,14 @@ You can configure various model and optimization parameters via command-line:
 
 ## 📖 Citation
 
-> Molina N. et al. *HiddenFoot: a thermodynamic model for TF binding inference on single DNA molecules* (in preparation)
+> Molina N. et al. *HiddenFoot: a biophysical model to uncover transcription factor and nucleosome binding on single DNA molecules* (in preparation)
 
 ---
 
 ## 👩‍🔬 Authors
 
 Developed by **Nacho Molina**  
-[https://molinalab.org](https://molinalab.org)  
+[Molina Lab](https://molinalab.org](https://www.igbmc.fr/en/recherche/teams/stochastic-systems-biology-of-gene-regulation)  
 MolinaLab @ IGBMC
 
 ---
