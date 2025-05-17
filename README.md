@@ -132,9 +132,7 @@ You can configure various model and optimization parameters via command-line:
 ## 📖 Citation
 
 Biophysical Modeling Uncovers Transcription Factor and Nucleosome Binding on Single DNA Molecules
-
 Lasha Dalakishvili, Husain Managori, Anais Bardet, Vera Slaninova, Edouard Bertrand and Nacho Molina
-
 bioRxiv 2025.05.13.653852; doi: https://doi.org/10.1101/2025.05.13.653852
 
 ---
