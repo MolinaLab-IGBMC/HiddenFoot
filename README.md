@@ -140,8 +140,7 @@ bioRxiv 2025.05.13.653852; doi: https://doi.org/10.1101/2025.05.13.653852
 ## 👩‍🔬 Authors
 
 Developed by **Nacho Molina**  
-[Molina Lab](https://molinalab.org](https://www.igbmc.fr/en/recherche/teams/stochastic-systems-biology-of-gene-regulation)  
-MolinaLab @ IGBMC
+Molina Lab @ IGBMC: https://molinalab.org](https://www.igbmc.fr/en/recherche/teams/stochastic-systems-biology-of-gene-regulation)  
 
 ---
 
